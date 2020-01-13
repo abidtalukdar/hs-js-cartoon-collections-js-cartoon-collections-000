@@ -14,7 +14,7 @@ var list = [];
   for (i=0; i<=planeteerCalls.length - 1; i++) {
     list.push( (planeteerCalls[i]).toUpperCase() + "!");
   }
-  return list ;
+  return list;
 }
 
 
